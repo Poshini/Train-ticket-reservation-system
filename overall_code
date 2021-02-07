@@ -5,7 +5,8 @@
 
 /*******************************************GLOBAL VARIABLES**********************************************************/
 //ALl the globle variables and the composite data types will be declared here
-typedef struct{
+typedef struct
+{
 	char name[50];
 	int train_num;
 	int num_of_seats;
