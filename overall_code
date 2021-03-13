@@ -24,7 +24,7 @@ void printticket(char name[],int,int,float);	//print ticket
 void specifictrain(int);						//print data related to specific train
 float charge(int,int);							//charge automatically w.r.t number of seats and train
 void login();
-
+ 
 
 /******************************************FUNCTION DECLARATION**********************************************************/
 
