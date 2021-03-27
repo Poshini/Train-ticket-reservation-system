@@ -2,7 +2,7 @@
 #include<conio.h>
 #include<stdlib.h>
 #include<string.h>
-
+ 
 /*******************************************GLOBAL VARIABLES**********************************************************/
 //ALl the globle variables and the composite data types will be declared here
 typedef struct
