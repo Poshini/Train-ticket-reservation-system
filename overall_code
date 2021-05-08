@@ -243,7 +243,7 @@ void printticket(char name[],int num_of_seats,int train_num,float charges)
 /*********************************************SPECIFICTRAIN()*************************************************/
 
 void specifictrain(int train_num)
-{
+{ 
 	
 	if (train_num==1001)
 	{
